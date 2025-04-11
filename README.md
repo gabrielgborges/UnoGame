@@ -4,17 +4,21 @@ A fully functional command-line implementation of the classic card game **UNO**,
 
 This project simulates a turn-based UNO game for 2 or more players, featuring full game rules, deck shuffling, card logic, and turn rotation — all with an emphasis on clean code structure and good memory management practices.
 
+![image](https://github.com/user-attachments/assets/0f54c2d3-d9ad-44dd-ad73-1eeaaaca432f)
+
 ---
 
 ## 📌 Features
 
 - ♠️ Full UNO rule implementation (skip, reverse, draw two, wild, wild draw four)
-- 🧠 AI or player-vs-player modes (depending on implementation)
+- 🧠 Smart AI and player interactions
 - 🎲 Randomized deck shuffle at each game start
 - 🔄 Robust turn management and card validation logic
 - 🚫 Rule enforcement (e.g., must say UNO before last card, penalties, etc.)
-- 📦 Clean object-oriented design
+- 📦 Clean and decoupled object-oriented design
 - 🧹 Safe memory management using modern C++ features (smart pointers, RAII, deep x shallow copy)
+
+![image](https://github.com/user-attachments/assets/a8c91499-fab0-4125-88ac-bd7a7b255254)
 
 ---
 
