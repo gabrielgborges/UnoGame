@@ -40,3 +40,16 @@ Using terminal:
 ```bash
 g++ -std=c++17 -Wall -Wextra -o unoGame main.cpp
 ./unoGame
+````
+
+### How to Play
+- Follow terminal prompts to choose players and draw cards.
+
+- Play continues clockwise unless reversed.
+
+- First player to empty their hand wins.
+
+- Special cards behave as per UNO rules.
+
+- You must yell UNO! befor throwing your penultimate card.
+
